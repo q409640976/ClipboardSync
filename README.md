@@ -6,6 +6,7 @@
 ## 使用场景
 - 多台电脑需要剪切板同步的
 - 哪怕一台电脑，需要云备份历史剪切板的
+- 手机/电脑传文字
 
 ## 编程语言
 - **客户端**：Rust（性能极佳）
@@ -43,6 +44,7 @@
 ## 下载
 👉 [Github下载](https://github.com/q409640976/ClipboardSync/releases)
 👉 [国内下载](https://gitee.com/q409640976/ClipboardSync/releases/)
+
 
 
 

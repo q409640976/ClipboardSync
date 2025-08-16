@@ -42,6 +42,13 @@
 - 手工在数据库添加客户端白名单:表`clients`
 - 下载客户端,以及config.txt,并修改服务端网址(注意以"/"结尾)
 
+## 与手机同步方案
+- 用到Android神器【HTTP Shortcuts】(https://http-shortcuts.rmy.ch/  )
+- 一键获取PC剪切板,发送手机剪切板到PC
+- 注意（getLastOne.php 和 getLastOne.php记得改名）
+- 导入脚本【shortcuts脚本导入.zip】，然后修改参数
+
 ## 下载
 👉 [Github下载](https://github.com/q409640976/ClipboardSync/releases)
 👉 [国内下载](https://gitee.com/q409640976/ClipboardSync/releases/)
+

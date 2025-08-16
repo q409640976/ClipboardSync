@@ -1,0 +1,36 @@
+################### 以下不建议改 ######################
+# 本地sqlite数据库文件路径
+DATABASE_PATH=clipboard.db
+
+# 组ID（同一组的电脑可以同步剪切板）
+GROUP_ID=default
+
+# 单次数据获取条数
+LIMIT=100
+
+################### 以下务必修改 #######################
+# 客户端ID（当前计算机名）
+CLIENT_ID=PC1
+
+# AES加密密钥
+AES_KEY=Your_self_aes_key_996
+
+# API服务器地址
+API_URL=https://www.你自己的服务器.com/serverPHP/
+
+
+################### 以下VIP配置 ########################
+# VIP状态
+IS_VIP=0
+
+# 是否记录图片（1=记录，0=不记录）
+RECORD_IMG=0
+
+# 最大处理大小（字节数，加密前,太大的不同步）
+MAX_SIZE=102400
+
+#机器码
+JIQI_CODE=000
+
+# 激活码
+JIHUO_CODE=请联系微信:pctongbu (15/台 50/5台)

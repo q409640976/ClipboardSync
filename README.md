@@ -1,7 +1,7 @@
 # 多设备剪切板同步工具
 
 ## 概述
-多台电脑剪切板同步，通过 AES 加密后，使用 PHP 服务端作为中转，客户端解密，确保云端数据安全。
+多台电脑(及手机)剪切板同步，通过 AES 加密后，使用 PHP 服务端作为中转，客户端解密，确保云端数据安全。
 
 ## 使用场景
 - 多台电脑需要剪切板同步的
@@ -51,4 +51,5 @@
 ## 下载
 👉 [Github下载](https://github.com/q409640976/ClipboardSync/releases)
 👉 [国内下载](https://gitee.com/q409640976/ClipboardSync/releases/)
+
 
